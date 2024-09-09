@@ -1,6 +1,6 @@
 # Health-Monitoring-and-Patient-Data-Analysis
 
-Health Monitoring and Analysis involves the organized use of health data to continuously track and assess the health status of individuals or populations. It encompasses various activities, ranging from real-time collection of physiological data (such as heart rate, blood pressure, and temperature) to the analysis of more detailed health records, including patient history, lifestyle factors, and genetic information.
+Health Monitoring and Patient Data Analysis involves the organized use of health data to continuously track and assess the health status of individuals or populations. It encompasses various activities, ranging from real-time collection of physiological data (such as heart rate, blood pressure, and temperature) to the analysis of more detailed health records, including patient history, lifestyle factors, and genetic information.
 
 **Business Problem:**
 Aim to monitor the health of the patients in the data, analyze the patterns found in different types of patients and group them based on their health standards.
